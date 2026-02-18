@@ -1,0 +1,101 @@
+Order Date,Region,Category,Sub-Category,Sales,Profit,Quantity
+2022-01-01,East,Furniture,Chairs,800.68,282.89,1
+2022-01-02,West,Technology,Phones,201.19,94.93,6
+2022-01-03,Central,Office Supplies,Binders,283.45,-142.3,8
+2022-01-04,South,Furniture,Tables,720.92,211.87,4
+2022-01-05,East,Furniture,Chairs,393.56,155.8,6
+2022-01-06,West,Technology,Phones,592.73,-122.83,4
+2022-01-07,Central,Office Supplies,Binders,140.42,242.93,8
+2022-01-08,South,Furniture,Tables,137.53,81.03,3
+2022-01-09,East,Furniture,Chairs,334.47,88.17,4
+2022-01-10,West,Technology,Phones,964.67,-162.2,2
+2022-01-11,Central,Office Supplies,Binders,705.79,164.34,1
+2022-01-12,South,Furniture,Tables,940.77,137.71,8
+2022-01-13,East,Furniture,Chairs,484.07,78.97,8
+2022-01-14,West,Technology,Phones,913.14,-17.59,1
+2022-01-15,Central,Office Supplies,Binders,688.33,28.26,5
+2022-01-16,South,Furniture,Tables,204.09,-156.16,4
+2022-01-17,East,Furniture,Chairs,501.11,172.62,7
+2022-01-18,West,Technology,Phones,895.3,140.85,9
+2022-01-19,Central,Office Supplies,Binders,649.88,11.74,8
+2022-01-20,South,Furniture,Tables,419.96,187.17,8
+2022-01-21,East,Furniture,Chairs,705.71,147.39,4
+2022-01-22,West,Technology,Phones,714.49,-60.04,9
+2022-01-23,Central,Office Supplies,Binders,368.1,20.6,8
+2022-01-24,South,Furniture,Tables,606.98,57.66,5
+2022-01-25,East,Furniture,Chairs,879.94,-188.45,8
+2022-01-26,West,Technology,Phones,472.01,-65.65,8
+2022-01-27,Central,Office Supplies,Binders,500.96,51.43,9
+2022-01-28,South,Furniture,Tables,528.56,-66.36,6
+2022-01-29,East,Furniture,Chairs,732.13,174.79,2
+2022-01-30,West,Technology,Phones,236.98,267.13,2
+2022-01-31,Central,Office Supplies,Binders,299.13,267.89,5
+2022-02-01,South,Furniture,Tables,557.28,27.27,5
+2022-02-02,East,Furniture,Chairs,975.09,166.87,5
+2022-02-03,West,Technology,Phones,232.02,67.94,3
+2022-02-04,Central,Office Supplies,Binders,843.11,-15.77,8
+2022-02-05,South,Furniture,Tables,456.97,245.35,6
+2022-02-06,East,Furniture,Chairs,233.0,-7.77,3
+2022-02-07,West,Technology,Phones,251.57,43.25,3
+2022-02-08,Central,Office Supplies,Binders,391.71,-103.69,3
+2022-02-09,South,Furniture,Tables,664.92,145.17,2
+2022-02-10,East,Furniture,Chairs,296.88,75.31,8
+2022-02-11,West,Technology,Phones,252.89,-88.57,9
+2022-02-12,Central,Office Supplies,Binders,162.81,-35.18,3
+2022-02-13,South,Furniture,Tables,269.05,277.06,1
+2022-02-14,East,Furniture,Chairs,546.4,181.7,9
+2022-02-15,West,Technology,Phones,579.32,-193.27,8
+2022-02-16,Central,Office Supplies,Binders,902.03,158.17,6
+2022-02-17,South,Furniture,Tables,879.31,-185.09,3
+2022-02-18,East,Furniture,Chairs,146.9,-101.94,5
+2022-02-19,West,Technology,Phones,109.46,-153.12,4
+2022-02-20,Central,Office Supplies,Binders,214.7,13.04,6
+2022-02-21,South,Furniture,Tables,584.78,-180.29,7
+2022-02-22,East,Furniture,Chairs,745.25,204.46,5
+2022-02-23,West,Technology,Phones,724.46,-53.99,1
+2022-02-24,Central,Office Supplies,Binders,684.05,171.59,8
+2022-02-25,South,Furniture,Tables,598.72,223.57,3
+2022-02-26,East,Furniture,Chairs,917.32,103.93,9
+2022-02-27,West,Technology,Phones,765.2,-155.73,3
+2022-02-28,Central,Office Supplies,Binders,266.53,76.77,5
+2022-03-01,South,Furniture,Tables,221.64,193.63,7
+2022-03-02,East,Furniture,Chairs,872.65,194.18,7
+2022-03-03,West,Technology,Phones,98.83,-189.55,6
+2022-03-04,Central,Office Supplies,Binders,341.2,40.11,4
+2022-03-05,South,Furniture,Tables,396.89,-128.26,6
+2022-03-06,East,Furniture,Chairs,874.84,261.43,4
+2022-03-07,West,Technology,Phones,607.31,-173.06,3
+2022-03-08,Central,Office Supplies,Binders,388.1,-27.13,7
+2022-03-09,South,Furniture,Tables,593.49,168.0,3
+2022-03-10,East,Furniture,Chairs,811.09,-116.99,5
+2022-03-11,West,Technology,Phones,839.29,14.95,8
+2022-03-12,Central,Office Supplies,Binders,179.49,46.58,9
+2022-03-13,South,Furniture,Tables,773.24,181.68,7
+2022-03-14,East,Furniture,Chairs,479.69,191.38,7
+2022-03-15,West,Technology,Phones,187.3,184.92,1
+2022-03-16,Central,Office Supplies,Binders,999.31,154.42,9
+2022-03-17,South,Furniture,Tables,930.39,-106.64,8
+2022-03-18,East,Furniture,Chairs,547.33,-58.08,7
+2022-03-19,West,Technology,Phones,727.23,-105.07,5
+2022-03-20,Central,Office Supplies,Binders,978.67,-122.97,4
+2022-03-21,South,Furniture,Tables,616.72,169.53,7
+2022-03-22,East,Furniture,Chairs,817.11,211.11,1
+2022-03-23,West,Technology,Phones,917.81,16.81,1
+2022-03-24,Central,Office Supplies,Binders,392.36,33.61,6
+2022-03-25,South,Furniture,Tables,611.2,208.1,9
+2022-03-26,East,Furniture,Chairs,774.12,34.9,8
+2022-03-27,West,Technology,Phones,873.81,22.41,7
+2022-03-28,Central,Office Supplies,Binders,888.08,108.53,7
+2022-03-29,South,Furniture,Tables,677.91,43.79,7
+2022-03-30,East,Furniture,Chairs,340.96,-72.25,2
+2022-03-31,West,Technology,Phones,981.07,262.17,1
+2022-04-01,Central,Office Supplies,Binders,411.21,70.32,2
+2022-04-02,South,Furniture,Tables,964.55,-188.26,4
+2022-04-03,East,Furniture,Chairs,380.95,-64.71,4
+2022-04-04,West,Technology,Phones,465.34,244.93,1
+2022-04-05,Central,Office Supplies,Binders,485.51,-76.18,5
+2022-04-06,South,Furniture,Tables,705.36,293.24,5
+2022-04-07,East,Furniture,Chairs,250.23,-24.91,3
+2022-04-08,West,Technology,Phones,689.67,35.05,6
+2022-04-09,Central,Office Supplies,Binders,880.61,-159.18,6
+2022-04-10,South,Furniture,Tables,788.87,207.87,7
